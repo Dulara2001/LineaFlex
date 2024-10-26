@@ -84,7 +84,7 @@ const ResearchGap = () => {
           <h3 className="font-bold text-xl mb-2 text-green-700">
               Real-Time Monitoring in Apparel Manufacturing
           </h3>
-          <p className="text-gray-500">
+          <p className="text-gray-500 text-justify">
           Current systems for monitoring hand movements and posture in the apparel industry lack real-time feedback, making it difficult to correct mistakes promptly.
           </p>
         </motion.div>
@@ -100,7 +100,7 @@ const ResearchGap = () => {
           <h3 className="font-bold text-xl mb-2 text-green-700">
               Lack of Personalized Skill Training
           </h3>
-          <p className="text-gray-500">
+          <p className="text-gray-500 text-justify">
           Existing training programs for sewing operators are not tailored to individual skill levels. This research aims to fill this gap by leveraging machine learning to offer personalized feedback and skill prediction, fostering more effective and targeted training.
           </p>
         </motion.div>
@@ -116,7 +116,7 @@ const ResearchGap = () => {
           <h3 className="font-bold text-xl mb-2 text-green-700">
           Advanced Technologies for Data-Driven Decision Making
           </h3>
-          <p className="text-gray-500">
+          <p className="text-gray-500 text-justify">
           Many apparel manufacturing systems do not fully utilize machine learning, computer vision, and sensor fusion to analyze hand movements and posture data. This gap underscores the potential for data-driven insights to optimize both worker performance and production quality, which this research aims to address.
           </p>
         </motion.div>
