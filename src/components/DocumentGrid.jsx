@@ -82,7 +82,7 @@ const DocumentGrid = () => {
             title: "Progress Presentation II",
             submitted: "Submitted on 2024/03/22",
             type: "Group",
-            downloadLink: "#",
+            downloadLink: "https://docs.google.com/presentation/d/1Zih5JTcYY98eti9nMoZfZ8Un2XBXIcGQ/edit?usp=sharing&ouid=116251346473649527368&rtpof=true&sd=true",
             status: "submitted",
         },
         {
