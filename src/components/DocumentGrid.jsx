@@ -57,7 +57,7 @@ const DocumentGrid = () => {
             title: "Poster",
             submitted: "Submitted on 2024/10/13",
             type: "Group",
-            downloadLink: "https://drive.google.com/file/d/1vL-8Gzju5klSf9MZyKNQJlx5MTpQWiAk/view?usp=sharing",
+            downloadLink: "https://drive.google.com/drive/folders/1Z8RXBfiHZnuUxDyXkAL4BVqkevHJISqt?usp=sharing",
             status: "submitted",
         },
     ];
