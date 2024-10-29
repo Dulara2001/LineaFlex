@@ -15,7 +15,7 @@ const DocumentGrid = () => {
             title: "Project Charter",
             submitted: "Submitted on 2024/02/19",
             type: "Group",
-            downloadLink: "#",
+            downloadLink: "https://drive.google.com/file/d/1ojEndiKjn-N0vAxdeJraSFRp5D_U81OC/view?usp=sharing",
             status: "submitted",
         },
         {
@@ -57,7 +57,7 @@ const DocumentGrid = () => {
             title: "Poster",
             submitted: "Submitted on 2024/10/13",
             type: "Group",
-            downloadLink: "#",
+            downloadLink: "https://drive.google.com/file/d/1vL-8Gzju5klSf9MZyKNQJlx5MTpQWiAk/view?usp=sharing",
             status: "submitted",
         },
     ];
