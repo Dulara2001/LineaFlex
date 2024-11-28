@@ -18,6 +18,13 @@ The primary aim of this research is to design and implement a cutting-edge syste
 ## Main Problem
 Imprecise hand movements during sewing processes often lead to lower efficiency, compromised product quality, and increased strain on workers. Conventional methods of monitoring these movements lack consistency, scalability, and real-time feedback mechanisms, necessitating an automated solution.
 
+In traditional training centers, supervisors manually check whether sewing operators' hand movements are correct. However, this approach has significant limitations:
+-	Supervisors cannot continuously monitor every operator, leading to inconsistent oversight.
+-	Operators lack direct, immediate feedback on their performance, slowing down the learning process.
+
+To address these limitations, I have developed a system that empowers operators to independently monitor their movements. The system provides real-time feedback, enabling operators to see exactly where they went wrong and improve their technique autonomously. This reduces the reliance on constant manual supervision while ensuring consistent and accurate skill development.
+
+
 ---
 
 ## My Contribution (Solution)
