@@ -58,7 +58,9 @@ To achieve our objectives, we adopted the following structured approach:
 <img src="https://github.com/user-attachments/assets/1df4fa43-f65a-4ec1-8ad1-34c5a512de36" alt="Screenshot 3" width="200"/>
 
 
-
+## Final Output
+<img src="https://github.com/user-attachments/assets/382924cb-5f5a-41a3-8299-3f60d97f4248" alt="Screenshot 2" width="400"/>
+<img src="https://github.com/user-attachments/assets/2e100695-0187-4a12-a0fc-3d4eacae45ad" alt="Screenshot 2" width="400"/>
 
 
 ## Impact
