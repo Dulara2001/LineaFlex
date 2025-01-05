@@ -43,7 +43,7 @@ const DocumentGrid = () => {
             title: "Research Paper",
             submitted: "Submitted on 2024/06/14",
             type: "Group",
-            downloadLink: "https://drive.google.com/file/d/1oXgARa8go_UEkCZ-HgGCW9EZkHH8cmV4/view?usp=sharing",
+            downloadLink: "https://drive.google.com/file/d/1fCkF7pIgaWDEcSwg7gep-L2lvNFb8far/view?usp=sharing",
             status: "submitted",
         },
         {
