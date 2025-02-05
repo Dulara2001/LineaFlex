@@ -1,5 +1,7 @@
 # Integrated Human Motion Monitoring System for Enhanced Productivity and Well-being in the Apparel Industry
 
+**Demo**: https://drive.google.com/file/d/1Ah8AZCMdZgwzCZtLanhhEbnTbFlxqu3l/view?usp=sharing
+
 ## Background
 The apparel industry relies on precision and efficiency, yet workers often face challenges such as incorrect hand movements and poor posture, which can hinder productivity and negatively impact their well-being. Traditional manual monitoring approaches are inconsistent and inefficient. To address these issues, our research introduces an advanced motion monitoring system that utilizes machine learning, camera systems, and sensors to revolutionize the industry by enhancing productivity and fostering a safer working environment.
 
